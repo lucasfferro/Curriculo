@@ -1,0 +1,19 @@
+body{
+    background: linear-gradient(to right, blue, purple);
+}
+
+.border{
+    background: linear-gradient(to right, rgb(81, 81, 83), rgb(199, 192, 199));
+}
+
+.display-2{
+    color: rgb(13, 13, 13);
+}
+
+.font-weight-light{
+    color: black;
+}
+
+.navbar{
+    background: linear-gradient(to right, rgb(81, 81, 83), rgb(199, 192, 199));
+}
