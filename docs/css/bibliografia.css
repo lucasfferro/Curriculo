@@ -5,7 +5,6 @@ body{
 
 .autor{
     color: rgb(37, 131, 193);
-    /* short hand */
     border-bottom: dotted 1rem rgb(98, 80, 152);
     font-size: 3em;
 }
