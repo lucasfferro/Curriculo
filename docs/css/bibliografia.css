@@ -1,16 +1,17 @@
 body{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     margin: 3rem;
+    background: linear-gradient(to right, blue, purple);
 }
 
 .autor{
-    color: rgb(37, 131, 193);
-    border-bottom: dotted 1rem rgb(98, 80, 152);
+    color: rgb(220, 222, 225);
+    border-bottom: dotted 1rem rgb(156, 154, 162);
     font-size: 3em;
 }
 
 .titulo{
-    color: rgb(125, 125, 125);
+    color: rgb(13, 13, 13);
 }
 
 .description{
@@ -21,13 +22,17 @@ body{
     border: solid black;
     padding: 1rem;
     text-align: center;
+    background: linear-gradient(to right, rgb(81, 81, 83), rgb(199, 192, 199));
 }
 
 .contato li{
     text-align: left;
-    
 }
 
 .bi{
     font-size: 2rem;
+}
+
+.navbar{
+    background: linear-gradient(to right, rgb(81, 81, 83), rgb(199, 192, 199));
 }
